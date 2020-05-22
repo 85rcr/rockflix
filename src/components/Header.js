@@ -48,7 +48,6 @@ const HeaderComponent = styled.div`
         }
     }
 
-
     // Header Top
     .header-top {
         position: relative;
