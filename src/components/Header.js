@@ -51,5 +51,6 @@ const HeaderComponent = styled.div`
     .header-top {
         position: relative;
         height: 10rem;
+        z-index: 1;
     }
 `;
