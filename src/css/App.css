@@ -44,5 +44,5 @@ a {
     height: 100%;
     background: rgba(0,0,0,0.5);
     box-shadow: inset 4.375rem 3.125rem 11.875rem #000, 
-        inset -4.375rem -3.125rem -11.875rem;
+        inset -4.375rem -3.125rem 11.875rem #000;
 }
