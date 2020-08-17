@@ -58,14 +58,14 @@ const HeaderComponent = styled.div`
         }
     }
     
-    // Header Top
+    /* Header Top */
     .header-top {
         position: relative;
         height: 10rem;
         z-index: 1;
     }
 
-    // Header Content
+    /* Header Content */
     .header-content {
         width: 65%;
         position: relative;
@@ -78,7 +78,7 @@ const HeaderComponent = styled.div`
         z-index: 1;
     }
 
-    // Main Offer BTN
+    /* Main Offer BTN */
     .main-offer-btn {
         display: inline-block;
         background: var(--main-red);
