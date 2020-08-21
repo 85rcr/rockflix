@@ -109,7 +109,7 @@ const Title = styled.h1`
     margin: 0 0 1.2rem;
     font-size: 5rem;
     font-weight: 700;
-    line-heigth: 1.1em;
+    line-height: 1.1em;
 `;
 
 // SubTitle
